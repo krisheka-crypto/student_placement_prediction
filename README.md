@@ -205,6 +205,13 @@ streamlit run app.py
 
 ---
 
+<img width="1600" height="847" alt="image" src="https://github.com/user-attachments/assets/958fdb53-d985-409b-b34d-f5d83920d97a" />
+
+<img width="1600" height="845" alt="image" src="https://github.com/user-attachments/assets/74d561ad-ebf0-4a80-9482-75d181bb1daf" />
+
+<img width="1600" height="850" alt="image" src="https://github.com/user-attachments/assets/8a329abb-9fad-4afe-bba5-c31e0da516e7" />
+
+
 ## Key Learning Outcomes
 
 This project provided practical experience in:
